@@ -1,4 +1,4 @@
-# Genesco
+# Genesco(Python Project)
 
 Retail Sales Comparative Sales Increase
 Comparative sales increase is the "holy grail of retail," and so our project partner wants to understand how well the metrics his company collects help explain the change in sales for a given week for one fiscal year compared to the same week for the previous fiscal year. Comparing sales for the same period in two consecutive years is a measure of growth for the company and provides value to shareholders. The data provided shows this measure as a percent change ((SALES_AMT_TY - SALES_AMT_LY ) / SALES_AMT_LY) in the current time period as compared to the previous one.
